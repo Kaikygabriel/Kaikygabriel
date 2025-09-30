@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias
 - C# / .NET
 - ASP.NET Core
-- SQL Server / SQLite
+- SQL Server / MySql
 - Git & GitHub
 
 ## 📊 Estatísticas

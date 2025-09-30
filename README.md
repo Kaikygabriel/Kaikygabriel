@@ -9,7 +9,7 @@
 - ASP.NET Core
 - SQL Server / MySql
 - Git & GitHub
--IIS
+- IIS
 
 ## 📊 Estatísticas
 ![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaikygabriel&show_icons=true&theme=dracula)

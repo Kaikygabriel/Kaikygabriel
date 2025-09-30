@@ -11,4 +11,4 @@
 - Git & GitHub
 
 ## 📊 Estatísticas
-![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiky&show_icons=true&theme=dracula)
+![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaikygabriel&show_icons=true&theme=dracula)

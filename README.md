@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Kaiky
 
 💻 Estudante e futuro desenvolvedor C# e ASP.NET  
-🚀 Criador da Biblioteca [JwtCraft](https://www.nuget.org/packages/JwtCraft/)  
+🚀 Criador das Bibliotecas [JwtCraft](https://www.nuget.org/packages/JwtCraft/)   [MediatorX.Core](https://www.nuget.org/packages/MediatorX.Core/)  
 📚 Atualmente estudando Clean Architecture e Web APIs  
 
 ## 🚀 Tecnologias

@@ -9,7 +9,7 @@
 ## 🧠 Sobre mim
 Sou apaixonado por tecnologia e desenvolvimento backend com .NET.  
 Gosto de criar soluções simples, performáticas e bem estruturadas.  
-Atualmente focado em evoluir minhas habilidades com **C#, ASP.NET Core, Entity Framework e arquitetura limpa**.
+
 
 ---
 

@@ -43,4 +43,4 @@ Gosto de criar soluções simples, performáticas e bem estruturadas.
 
 ## 🌐 Conecte-se comigo
 
-📫 **Email:** kaikygabrielalves708@example.com
+📫 **Email:** kaikygabrielalves708@gmail.com

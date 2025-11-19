@@ -37,7 +37,7 @@ Atualmente focado em evoluir minhas habilidades com **C#, ASP.NET Core, Entity F
 
 - 🔑 **[JwtCraft](https://www.nuget.org/packages/JwtCraft/):** Biblioteca simples e segura para geração e validação de tokens JWT.  
 - ⚙️ **[MediatorX.Core](https://www.nuget.org/packages/MediatorX.Core/):** Implementação minimalista do padrão Mediator para .NET.
-- 🔒 **[LittleIdentity](https://www.nuget.org/packages/LittleIdentity) **  Biblioteca simples para aplicar de forma little authenticação e autorização.
+- 🔒 **[LittleIdentity](https://www.nuget.org/packages/LittleIdentity) :**  Biblioteca simples para aplicar de forma little authenticação e autorização.
 
 ---
 

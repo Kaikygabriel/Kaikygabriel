@@ -2,7 +2,7 @@
 
 💻 **Estudante e futuro desenvolvedor C# / ASP.NET**  
 🚀 Criador das bibliotecas [JwtCraft](https://www.nuget.org/packages/JwtCraft/) , [MediatorX.Core](https://www.nuget.org/packages/MediatorX.Core/) e [LittleIdentity](https://www.nuget.org/packages/LittleIdentity)  
-📚 Atualmente estudando o ecossistema **Dotnet**
+📚 Atualmente estudando o ecossistema **.Net** ea **Web**
 
 ---
 
@@ -16,14 +16,6 @@ Gosto de criar soluções simples, performáticas e bem estruturadas.
 
 ![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaikygabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikygabriel&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
----
-
-## 📦 Principais Projetos
-
-- 🔑 **[JwtCraft](https://www.nuget.org/packages/JwtCraft/):** Biblioteca simples e segura para geração e validação de tokens JWT.  
-- ⚙️ **[MediatorX.Core](https://www.nuget.org/packages/MediatorX.Core/):** Implementação minimalista do padrão Mediator para .NET.
-- 🔒 **[LittleIdentity](https://www.nuget.org/packages/LittleIdentity) :**  Biblioteca simples para aplicar de forma little authenticação e autorização.
 
 ---
 

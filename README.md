@@ -14,7 +14,6 @@ Gosto de criar soluções simples, performáticas e bem estruturadas.
 
 ## 📊 Estatísticas do GitHub
 
-![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaikygabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikygabriel&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---

@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Kaiky Gabriel
 
 💻 **Estudante e futuro desenvolvedor C# / ASP.NET**  
-🚀 Criador das bibliotecas [JwtCraft](https://www.nuget.org/packages/JwtCraft/) , [MediatorX.Core](https://www.nuget.org/packages/MediatorX.Core/) e [LittleIdentity](https://www.nuget.org/packages/LittleIdentity)  
 📚 Atualmente estudando o ecossistema **.Net** ea **Web**
 
 ---
